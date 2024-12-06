@@ -2,7 +2,7 @@
 
 <img width="928" alt="Screenshot 2024-12-06 at 4 35 21 PM" src="https://github.com/user-attachments/assets/1531f1c2-8c20-4486-b708-14c595f30840">
 
-## Description
+## Short Notes
 
 - /
   - **/bin:**      common binary executables used by all users  
